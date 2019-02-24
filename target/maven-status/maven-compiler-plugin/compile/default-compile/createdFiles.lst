@@ -1,0 +1,7 @@
+entity\Semester.class
+entity\Student_.class
+entity\Teacher.class
+entity\Teacher_.class
+facades\SchoolFacade.class
+entity\Student.class
+entity\Semester_.class
